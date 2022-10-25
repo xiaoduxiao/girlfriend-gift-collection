@@ -4,21 +4,21 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
+        "最最最最可爱的宝宝",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
-        "奇怪的样子",
+        "第一个生日！",
+        "这四个多月来，我见过你",
+        "开心的样子",
         "可爱的样子",
         "生气的样子",
-        "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
-        "今年要吃好好的",
+        "嘿嘿,都是我喜欢的样子",
+        "真的好想好想去抱抱我的雯雯呀",
+        "今年你要吃好好的",
         "喂饱饱的",
-        "然后才有力气干活",
-        "和想我！",
-        "生日快乐~~",
+        "长的胖胖的,哈哈哈哈哈",
+        "希望宝贝每天都开开心心的",
+        "宝贝,生日快乐呀~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -31,21 +31,21 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
+        "最最最最可爱的宝宝": "./imgs/nothing.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
+        "第一个生日！": "./imgs/nothing.jpg",
+        "这四个多月来，我见过你": "./imgs/yangzi.jpeg",
+        "开心的样子": "./imgs/nothing.jpg",
         "可爱的样子": "./imgs/nothing.jpg",
         "生气的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "对了，礼物收全了吗？": "./imgs/chuo.gif",
-        "今年要吃好好的": "./imgs/chihaodian.jpeg",
+        "嘿嘿,都是我喜欢的样子": "./imgs/nothing.jpg",
+        "真的好想好想去抱抱我的雯雯呀": "./imgs/chuo.gif",
+        "今年你要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "长的胖胖的,哈哈哈哈哈": "./imgs/nothing.jpg",
+        "希望宝贝每天都开开心心的": "./imgs/nothing.jpg",
+        "宝贝,生日快乐呀~~": "./imgs/nothing.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -61,5 +61,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '爱你的臣臣~'
 };
